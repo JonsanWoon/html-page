@@ -1,0 +1,25 @@
+.title-header{
+    padding: 30px;
+
+    h1{
+        font-size: 36px;
+        font-family: cursive;
+    }
+}
+
+.img-icon{
+    display: block;
+    height: 100%;
+    width: 80%;
+    position: relative;
+    left: 10%;
+    top: 5%;
+}
+
+.img-label{
+    padding: 10px;
+}
+
+.selection-group{
+    display: inline-flex;
+}
